@@ -1,7 +1,15 @@
 # countingLabelSwift
 Counting Animation Label
 
-Counting Label Animation:
+Animation for Countng the Label and Stops A Particular value.
+
+# Requirements
+
+iOS 9.0+
+Xcode 8.1+
+Swift 4.0+
+
+# Usage
 
 Step 1: Download the project.
 
