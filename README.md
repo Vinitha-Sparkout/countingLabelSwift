@@ -15,18 +15,8 @@ Swift 4.0+
 
 Step 1: Download the project.
 
-Step 2: copy the animation folder file in to the project.
+Step 2: copy the countingLabel Swift file in to the project.
 
-step 3: Use the awesome animation and creating your own loading by including the smileys in the texfield
+step 3: create the label in the UI and Declare the label for class.
 
-# Features
-Easy to use
-
-Using the sprite kit and SKViews
-
-Fully customizable
-
-Simple Swift syntax
-
-Lightweight readable codebase
-
+step 4: declare the counting as StartCounting
